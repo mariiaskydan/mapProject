@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					EA88CBD71E27B8AE00B4D4D1 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = C6LA89Z3JW;
 						ProvisioningStyle = Automatic;
 					};
 					EA88CBF01E27B8AE00B4D4D1 = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C6LA89Z3JW;
 				INFOPLIST_FILE = Map/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = myApp.Map;
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C6LA89Z3JW;
 				INFOPLIST_FILE = Map/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = myApp.Map;
